@@ -1,0 +1,12 @@
+Pegue os papéis da sala de conferências, 
+coloque-os em ordem alfabética pelo sobrenome 
+e coloque-os na minha mesa. 
+
+Há uma entrada (input), os papéis e um local de onde encontrá-la, 
+a sala de conferências; 
+uma ação a ser executada, ordenar pelo sobrenome 
+e onde colocar a saída (output): na mesa do chefe. 
+
+O JCL é muito semelhante, pois não indica apenas "faça isso", 
+mas fornece informações suficientes sobre a tarefa 
+para que ela possa ser executada exatamente como pretendido.

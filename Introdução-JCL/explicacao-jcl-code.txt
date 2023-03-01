@@ -1,0 +1,13 @@
+Rode este programa e é assim que eu quero que você o execute:
+
+Encontre o input aqui e, quando terminar, coloque o output aqui.
+
+Enviamos esse JCL para z/OS e o JES – job entry subsystem (ou, subsistema de entrada de trabalho) – obtém todas as peças necessárias para realizar sua tarefa.
+
+Em seguida, ele executa as etapas descritas no JCL, criando o que é conhecido como um job.
+
+Podemos olhar para esse job enquanto o JES o prepara para execução e começa a imprimir o output.
+
+Além disso, também podemos examinar a saída do trabalho por meio do Visual Studio (VS) Code e verificar se ele foi executado corretamente.
+
+Todas essas etapas parecem complicadas, mas vamos orientá-lo em todas elas neste desafio de JCL.
