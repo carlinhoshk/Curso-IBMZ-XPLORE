@@ -1,0 +1,9 @@
+11:40 - 02/03/23
+
+Sobre o exemplo da imagem 'belo-exmeplo-sys.jpg' penso que o mainframe é como uma maçaneta que depende de Milhoes
+de 'giradas' em autenticação FINAL de dados Sensiveis/Cruciais/Bancarios. 
+
+o usuario está a frente da porta, o serviço de Caixa-eletronico/Cartão-credito/Maquininha é a msg para a maçaneta
+ser girada, mas primeiro é preciso checar, não o quanto tem em conta mas sim a autenticação da requizição.
+
+calculos x acessos/autenticação qual vale mais para Milhoes de conexões diarias ? 
