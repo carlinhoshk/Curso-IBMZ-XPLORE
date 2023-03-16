@@ -7,4 +7,5 @@
            INFILE(INPUT) -
            OUTDATASET(&SYSUID..VSAMDS) -
            ERRORLIMIT(6)
+
 /*
