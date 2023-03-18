@@ -1,0 +1,3 @@
+video: https://learn.ibm.com/course/view.php?id=7552
+
+leitura: https://github.com/carlinhoshk/fork-de-estudos-cobol-programming-course
